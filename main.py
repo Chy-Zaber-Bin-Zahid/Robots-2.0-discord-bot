@@ -101,21 +101,6 @@ async def on_message(message):
     new3 = read3()
     embed.description = new3
     await message.reply(embed=embed)
-  
-  if msg.startswith('!apu'):
-    await message.reply("Apu the আপু!",file = discord.File('apu.jpg'))
-    
-  if msg.startswith('!faisal'):
-    await message.reply("Faisal the MNS faculty!",file = discord.File('faisal.jpg'))
-    
-  if msg.startswith('!zaber'):
-    await message.reply("Zaber the Sofa pro!",file = discord.File('zaber.jpg'))
-
-  if msg.startswith('!asim'):
-    await message.reply("Asim the code boss!",file = discord.File('asim.jpg'))
-
-  if msg.startswith('!shuvo'):
-    await message.reply("Shuvo the চা পাগলা!",file = discord.File('shuvo.jpg'))
 
 keep_alive()
 client.run(os.getenv('Robot'))
