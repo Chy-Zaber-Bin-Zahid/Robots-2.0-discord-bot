@@ -261,6 +261,7 @@ async def on_message(message):
     await message.reply(line)
 
   if msg.startswith("!exam"):
+<<<<<<< HEAD
     if len(dic) > 1:
       dic = {}
       c = 0
@@ -297,6 +298,11 @@ async def on_message(message):
 
   if msg.startswith('!shuvo'):
     await message.reply("Shuvo the চা পাগলা!",file = discord.File('shuvo.jpg'))
+=======
+    new3 = read3()
+    embed.description = new3
+    await message.reply(embed=embed)
+>>>>>>> e4bbd148f52ea92cfbaece1889bd0e16321fe0f5
 
   if msg.startswith('!walid'):
     await message.reply("Walid the Diamond Noob!",file = discord.File('walid.jpg'))
@@ -631,6 +637,10 @@ async def on_message(message):
   
 
 keep_alive()
+<<<<<<< HEAD
 
 client.run(os.getenv('Robot'))
 # client.login(process.env.Robot)
+=======
+client.run(os.getenv('Robot'))
+>>>>>>> e4bbd148f52ea92cfbaece1889bd0e16321fe0f5
