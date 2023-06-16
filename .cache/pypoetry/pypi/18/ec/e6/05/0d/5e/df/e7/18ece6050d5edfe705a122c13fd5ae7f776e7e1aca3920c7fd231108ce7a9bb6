@@ -1,0 +1,1 @@
+9999999999{"name": "google-auth-httplib2", "version": "0.1.0", "summary": "Google Authentication Library: httplib2 transport", "platform": "", "requires_dist": ["google-auth", "httplib2 (>=0.15.0)", "six"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

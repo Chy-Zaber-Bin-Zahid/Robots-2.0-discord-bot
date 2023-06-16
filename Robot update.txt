@@ -1,3 +1,9 @@
+***Assignments:***
+**CSE471 (Section 4):** 17 June (Theory Assignment 1)
+**CSE437:** 18 June (Assignment 2)
+**CSE420 (Section 3):** 19 June (Lab 1)
+
 ***Graded Quiz:***
-**CSE250:** 14 June; Syllabus→ Whatever has been taught till 12 June
-**CSE250: **17 July; Syllabus→ Whatever has been taught after 14 June
+**CHN101:** 14 June (Quiz 1); Syllabus→ Lesson 1, 2
+**CSE471 (Section 4):** 17 June (Quiz 1); Syllabus→ Lecture 1, 2, 3
+**CSE437:** 24 June (Quiz 1); Syllabus→ Random Forest

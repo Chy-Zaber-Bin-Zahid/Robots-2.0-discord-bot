@@ -1,0 +1,1 @@
+9999999999{"name": "uritemplate", "version": "4.1.1", "summary": "Implementation of RFC 6570 URI Templates", "platform": "", "requires_dist": null, "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}

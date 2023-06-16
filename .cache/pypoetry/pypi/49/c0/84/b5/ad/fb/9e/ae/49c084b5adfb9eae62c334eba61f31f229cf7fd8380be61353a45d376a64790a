@@ -1,0 +1,1 @@
+9999999999{"name": "Brotli", "version": "1.0.9", "summary": "Python bindings for the Brotli compression library", "platform": "Posix", "requires_dist": null, "requires_python": null, "files": [], "_cache_version": "1.0.0"}

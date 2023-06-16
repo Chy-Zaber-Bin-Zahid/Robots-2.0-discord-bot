@@ -1,0 +1,1 @@
+9999999999{"name": "googleapis-common-protos", "version": "1.59.0", "summary": "Common protobufs used in Google APIs", "platform": null, "requires_dist": ["protobuf (!=3.20.0,!=3.20.1,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<5.0.0dev,>=3.19.5)", "grpcio (<2.0.0dev,>=1.44.0) ; extra == 'grpc'"], "requires_python": ">=3.7", "files": [], "_cache_version": "1.0.0"}
